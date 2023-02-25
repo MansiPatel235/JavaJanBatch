@@ -12,6 +12,7 @@ public class SwitchCase {
             case 1:
                 System.out.println("English is selected");
                 break;
+
             case 2:
                 System.out.println("FRENCH is selected");
                 break;
