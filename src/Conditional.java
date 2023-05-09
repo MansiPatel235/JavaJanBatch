@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Conditional {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Please enter value for a");
+        System.out.println("Please Enter Value for a");
         int a = sc.nextInt();
-        System.out.println("Please enter value for b");
+        System.out.println("Please Enter Value for b");
         int b= sc.nextInt();
         if(a==b){
             System.out.println("a is equal to b");
